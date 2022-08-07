@@ -16,6 +16,8 @@ Using the splicer of your choice, download the STL files and assemble them onto 
 - 1 **TopLayer**
 - 2 **Rod**s
 
+For each of these STL files, you can view a PNG of the design in this folder as well.
+
 If you used PLA filament and have sandpaper available, it can often be nice to smooth the edges of your 3D printed parts, beginning with the coarsest sandpaper and working your way up. However, this step is optional and purely aesthetic.
 
 Using scissors, cut the orange filter paper into two small hexagons so that each hexagon lies flatly on the inside of openings at the top of **TopLayer**. This can be a tricky process, as you want to make the hexagons you cut small enough to lay flatly inside, but not so small that they do not evenly cover the open channel. Begin by cutting two squares that are much bigger than necessary, and then cutting them down, bit by bit, until they reach the correct size.
