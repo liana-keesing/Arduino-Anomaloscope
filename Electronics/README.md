@@ -6,8 +6,8 @@
 - Arduino Prototyping Shield (does this come with headers?)
 - 10 mm RGB LED
 - 10 mm yellow LED
-- 330\Omega resistor
-- 270\Omega resistor
+- 330Ω resistor
+- 270Ω resistor
 - Heat shrink
 - Solid core 22 or 24 gauge wire in black, red, and 3 other assorted colors
 
@@ -23,6 +23,8 @@ Beginning by prepping the wire that you will need. You will need:
 - Two 3-inch pieces of black wire
 - One 4-inch piece of each red and three other colors
 In total, you should have 6 pieces of cut wire.
+
+If you're unfamiliar with the process of soldering, take a second to review [these instructions](https://lab64.stanford.edu/basic-soldering), courtesy of Stanford's lab64 makerspace.
 
 First, we will prep the prototyping shield. Snip the male-to-male headers into four pieces to match the width of the four block of female headers on the Arduino Leonardo. Then, solder the headers into the prototyping shield such that it matches the Leonardo and can be used as a shield for the Leonardo. If you are struggling to ensure they line up perfectly, stick the male-to-male headers into the Leonardo's female headers, and wiggle the prototyping shield so that the holes align with the male headers that are sticking up. Then, mark those spots, take the setup apart, and proceed to solder the male-to-male headers into the marked locations.
 
