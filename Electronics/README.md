@@ -6,21 +6,24 @@
 - Arduino Prototyping Shield (does this come with headers?)
 - 10 mm RGB LED
 - 10 mm yellow LED
-- 330Ω resistor
-- 270Ω resistor
+- 330 Ω resistor
+- 270 Ω resistor
+- 150 Ω resistor
+- two 100 Ω resistors
 - Heat shrink
 - Solid core 22 or 24 gauge wire in black, red, and 3 other assorted colors
 
 ### Tools
-- Soldering iron + accessories
-- Thingy to hold electronics in place while soldering
+- Soldering iron + accessories (solder, tip cleaning wire sponge, etc)
+- Clip of some sort to hold electronics in place while soldering
 - Wire strippers
 - Wire snippers
+- Heat gun for the heat shrink
 
 ## Instructions
 
 Beginning by prepping the wire that you will need. You will need:
-- Two 3-inch pieces of black wire
+- Two 4-inch pieces of black wire
 - One 4-inch piece of each red and three other colors
 In total, you should have 6 pieces of cut wire.
 
@@ -30,13 +33,13 @@ First, we will prep the prototyping shield. Snip the male-to-male headers into f
 
 Once the prototyping shield is prepped, we can move to the LEDs. 
 
-Begin with the yellow LED. Note that the positive leg of the LED is longer.  
+Begin with the yellow LED. Note that the positive leg of the LED is longer.  Solder a red wire to the positive leg and a black wire to a 330 Ω resistor to the negative leg, as shown below. Once finished, make sure to push heatshrink over each of the exposed wires/resistor, up to the bottom of the LED, and use the heat gun to attach it. See the picture below for more detail.
 
 ![Yellow LED](yellow_led.jpg)
 
-We will begin by prepping the LEDs
+Next, do the same with the RGB LED. Use the 150 Ω resistor for the red leg of the LED and a 100 Ω for each of the green and blue legs. Solder those resistors to three wires of different colors. Attach the black wire to the negative leg. Just like before, use heatshrink over the open connections. Use the picture below as a reference.
 
-
+![RGB LED](rgb_led.jpg)
 
 
 
