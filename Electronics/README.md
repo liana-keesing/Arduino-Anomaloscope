@@ -30,6 +30,7 @@ Once the prototyping shield is prepped, we can move to the LEDs.
 
 Begin with the yellow LED. Note that the positive leg of the LED is longer.  
 
+![Yellow LED](yellow_led.jpg)
 
 We will begin by prepping the LEDs
 
