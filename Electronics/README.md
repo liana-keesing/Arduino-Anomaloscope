@@ -29,7 +29,9 @@ In total, you should have 6 pieces of cut wire.
 
 If you're unfamiliar with the process of soldering, take a second to review [these instructions](https://lab64.stanford.edu/basic-soldering), courtesy of Stanford's lab64 makerspace.
 
-First, we will prep the prototyping shield. Snip the male-to-male headers into four pieces to match the width of the four block of female headers on the Arduino Leonardo. Then, solder the headers into the prototyping shield such that it matches the Leonardo and can be used as a shield for the Leonardo. If you are struggling to ensure they line up perfectly, stick the male-to-male headers into the Leonardo's female headers, and wiggle the prototyping shield so that the holes align with the male headers that are sticking up. Then, mark those spots, take the setup apart, and proceed to solder the male-to-male headers into the marked locations.
+First, we will prep the prototyping shield. Note that the diagram of the arduino shield shown in the schematic is for an Uno shield; we are using the Leonardo.  From reading on the web, it appears that the shields are basically compatible but that some Uno shields don't physically fit the Leonardo.  The shield in the PartsList.xlxs file does work with our Leonardos. It has labels that match up with those in the UNO diagram, but the physical locations aren't the same as the diagram shown in the instructions.  The two images ShieldFront.jpg and ShieldBack.jpg show pictures of the assembled shield we are using.
+
+Snip the male-to-male headers into four pieces to match the width of the four block of female headers on the Arduino Leonardo. Then, solder the headers into the prototyping shield such that it matches the Leonardo and can be used as a shield for the Leonardo. If you are struggling to ensure they line up perfectly, stick the male-to-male headers into the Leonardo's female headers, and wiggle the prototyping shield so that the holes align with the male headers that are sticking up. Then, mark those spots, take the setup apart, and proceed to solder the male-to-male headers into the marked locations.
 
 Once the prototyping shield is prepped, we can move to the LEDs. 
 
